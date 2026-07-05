@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0001-two-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0228-summary-ranges) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0735-asteroid-collision) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
