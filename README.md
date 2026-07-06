@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0228-summary-ranges) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0567-permutation-in-string) |
