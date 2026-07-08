@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1441-build-an-array-with-stack-operations) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0567-permutation-in-string) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
