@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1004-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
