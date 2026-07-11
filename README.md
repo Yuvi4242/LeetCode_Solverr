@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
