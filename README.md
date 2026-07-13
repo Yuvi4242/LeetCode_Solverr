@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
 ## Hash Table
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
