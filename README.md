@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
 ## Hash Table
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
