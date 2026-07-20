@@ -167,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -241,10 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0112-path-sum) |
 ## Greedy
 |  |
 | ------- |
