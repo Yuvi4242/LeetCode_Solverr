@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1441-build-an-array-with-stack-operations) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
 | ------- |
