@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0643-maximum-average-subarray-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
