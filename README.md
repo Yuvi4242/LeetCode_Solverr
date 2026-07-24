@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0076-minimum-window-substring) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0150-evaluate-reverse-polish-notation) |
