@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Data Stream
 |  |
 | ------- |
