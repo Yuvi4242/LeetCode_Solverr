@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0152-maximum-product-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0125-valid-palindrome) |
