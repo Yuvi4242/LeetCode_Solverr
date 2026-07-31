@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
