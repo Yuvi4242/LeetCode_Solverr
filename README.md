@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0628-maximum-product-of-three-numbers) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
