@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0620-not-boring-movies) |
+| [1148-article-views-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1757-recyclable-and-low-fat-products) |
 ## Bit Manipulation
 |  |
