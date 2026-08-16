@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0178-rank-scores) |
 | [0577-employee-bonus](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1148-article-views-i) |
