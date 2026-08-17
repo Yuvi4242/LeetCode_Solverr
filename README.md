@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0371-sum-of-two-integers) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1250-check-if-it-is-a-good-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -493,4 +497,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1250-check-if-it-is-a-good-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
