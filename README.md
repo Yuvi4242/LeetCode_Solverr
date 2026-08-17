@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1260-shift-2d-grid) |
+| [1306-jump-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1306-jump-game-iii) |
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1441-build-an-array-with-stack-operations) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0112-path-sum) |
+| [1306-jump-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0112-path-sum) |
+| [1306-jump-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
