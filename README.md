@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Data Stream
 |  |
 | ------- |
