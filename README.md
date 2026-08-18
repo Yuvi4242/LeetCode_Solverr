@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1667-fix-names-in-a-table) |
