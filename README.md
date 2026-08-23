@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1556-thousand-separator) |
 | [1768-merge-strings-alternately](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
