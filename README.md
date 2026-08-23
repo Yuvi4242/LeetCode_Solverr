@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1148-article-views-i) |
