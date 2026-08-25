@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0626-exchange-seats) |
+| [1070-product-sales-analysis-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1484-group-sold-products-by-the-date) |
