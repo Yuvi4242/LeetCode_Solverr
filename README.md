@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
@@ -574,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
