@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2540-minimum-common-value) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2833-furthest-point-from-origin) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
