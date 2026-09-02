@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0877-stone-game) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
