@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0904-fruit-into-baskets) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2351-first-letter-to-appear-twice) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1446-consecutive-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1544-make-the-string-great) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0387-first-unique-character-in-a-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2351-first-letter-to-appear-twice) |
