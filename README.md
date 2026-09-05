@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0560-subarray-sum-equals-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0657-robot-return-to-origin) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -539,12 +542,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -620,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
