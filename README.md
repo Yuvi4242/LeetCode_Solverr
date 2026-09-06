@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0383-ransom-note) |
