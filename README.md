@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1556-thousand-separator) |
 | [1768-merge-strings-alternately](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1563-stone-game-v) |
+| [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2091-removing-minimum-and-maximum-from-array) |
