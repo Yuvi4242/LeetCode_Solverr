@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
