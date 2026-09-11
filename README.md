@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0877-stone-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1250-check-if-it-is-a-good-array) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1510-stone-game-iv) |
