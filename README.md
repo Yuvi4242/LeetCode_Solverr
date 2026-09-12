@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0031-next-permutation) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
