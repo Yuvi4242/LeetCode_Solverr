@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1510-stone-game-iv) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
