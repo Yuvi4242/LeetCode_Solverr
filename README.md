@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
@@ -676,5 +677,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
