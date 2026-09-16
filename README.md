@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
 ## Stack
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2574-left-and-right-sum-differences) |
