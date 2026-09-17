@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0073-set-matrix-zeroes) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0089-gray-code) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1260-shift-2d-grid) |
 ## Database
