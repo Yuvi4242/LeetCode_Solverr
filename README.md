@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1260-shift-2d-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Database
 |  |
 | ------- |
