@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1556-thousand-separator) |
 | [1768-merge-strings-alternately](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
