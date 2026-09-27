@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1544-make-the-string-great) |
@@ -731,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
