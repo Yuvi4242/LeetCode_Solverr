@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2540-minimum-common-value](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
 |  |
