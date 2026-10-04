@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0940-distinct-subsequences-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0859-buddy-strings) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0856-score-of-parentheses) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
