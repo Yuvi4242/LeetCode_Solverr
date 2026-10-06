@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2063-vowels-of-all-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2063-vowels-of-all-substrings) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -761,4 +765,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
