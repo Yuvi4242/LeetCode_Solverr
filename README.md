@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0728-self-dividing-numbers) |
+| [0754-reach-a-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0877-stone-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0713-subarray-product-less-than-k) |
+| [0754-reach-a-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1004-max-consecutive-ones-iii) |
