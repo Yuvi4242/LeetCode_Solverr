@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0260-single-number-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
 ## Design
 |  |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
@@ -777,4 +782,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
