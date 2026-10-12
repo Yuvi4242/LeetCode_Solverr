@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
@@ -786,4 +790,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
