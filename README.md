@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0394-decode-string) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0287-find-the-duplicate-number) |
