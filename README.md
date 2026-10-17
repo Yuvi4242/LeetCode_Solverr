@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1200-minimum-absolute-difference) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1306-jump-game-iii) |
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
