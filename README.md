@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0454-4sum-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0500-keyboard-row) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0451-sort-characters-by-frequency) |
+| [0454-4sum-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0525-contiguous-array) |
