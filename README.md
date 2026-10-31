@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3524-find-x-value-of-array-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1260-shift-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3665-twisted-mirror-path-count) |
 ## Database
 |  |
 | ------- |
