@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0496-next-greater-element-i) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
