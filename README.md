@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0560-subarray-sum-equals-k) |
+| [0598-range-addition-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0704-binary-search) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0486-predict-the-winner) |
+| [0598-range-addition-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0728-self-dividing-numbers) |
