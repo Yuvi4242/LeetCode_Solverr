@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3524-find-x-value-of-array-i](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
