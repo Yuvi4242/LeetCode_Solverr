@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1250-check-if-it-is-a-good-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -855,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
