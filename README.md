@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0486-predict-the-winner) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0168-excel-sheet-column-title) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Yuvi4242/LeetCode_Solverr/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
